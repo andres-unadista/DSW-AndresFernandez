@@ -140,6 +140,10 @@ h2, h3{
    margin-top: 0;
 }
 
+aside p{
+   font-size: 2px;
+}
+
 /* autor */
 .panel-info{
    text-align: center;
