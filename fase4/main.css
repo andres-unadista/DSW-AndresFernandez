@@ -1,0 +1,62 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.bg-main {
+   background-color: #2175a2ba;
+   color: white !important;
+}
+
+.bg-main > a {
+   color: white !important;
+}
+
+h2 {
+   font-size: 1.8rem;
+}
+
+.img-fluid {
+   max-width: 70%;
+   height: auto;
+   display: block;
+   margin: auto;
+}
+
+.bg-footer {
+   background-color: rgb(61 144 251 / 45%);
+   padding: 10px;
+}
+
+.bg-footer ul {
+   list-style: none;
+}
+
+aside {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.platform {
+   padding: 1em;
+   background-color: #004669;
+}
+
+.bg-footer ul li span {
+   text-decoration: none;
+   cursor: pointer;
+}
+
+.nav-link {
+   color: rgb(255 255 255)!important;
+}
+
+@media (max-width: 700px) {
+   footer {
+      position: inherit !important;
+   }
+   footer {
+      margin: 0 !important;
+      padding: 0 !important;
+   }
+}

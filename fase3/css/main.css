@@ -40,7 +40,7 @@ ol {
 }
 
 .nav li a {
-   background-color: rgb(235, 51, 51);
+   background-color: #2175a2ba;
 
    color: #fff;
    text-decoration: none;
@@ -59,6 +59,7 @@ ol {
 }
 
 .nav li:hover > ul {
+   background-color: #fbfeff;
    display: block;
 }
 
@@ -121,7 +122,7 @@ footer {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: rgb(255, 30, 30);
+   background-color: #2175a2d5;
    color: white;
    text-align: center;
 }
