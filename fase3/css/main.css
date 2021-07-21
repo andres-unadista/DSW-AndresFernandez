@@ -149,3 +149,35 @@ aside p{
 .panel-info{
    text-align: center;
 }
+
+.author{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   border: 2px solid gray;
+   margin-bottom: 2em;
+   padding: 1em;
+}
+
+.author-profile{
+   width: 30%;
+   margin: auto;
+}
+
+.author-profile img{
+   width: 50%;
+   margin: auto;
+}
+
+.map{
+   clear: both;
+}
+
+.author-info{
+   text-align: justify;
+}
+
+.plan video{
+   width: 90%;
+   margin-bottom: 2em;
+}
