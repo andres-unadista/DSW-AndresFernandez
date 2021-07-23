@@ -179,5 +179,9 @@ aside p{
 
 .plan video{
    width: 90%;
-   margin-bottom: 2em;
+   margin-bottom: 0em;
+}
+
+.text-video{
+   line-height: 1.5em;
 }
